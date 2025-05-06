@@ -77,3 +77,6 @@ int main(void)
     
     // Usage similar to original printf
     ft_printf("String: %s, Number: %d\n", str, num);
+
+    return(0);
+}
